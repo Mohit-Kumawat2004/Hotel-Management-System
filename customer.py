@@ -4,7 +4,7 @@ from tkinter import ttk
 import mysql.connector
 import random
 from tkinter import messagebox
-
+   
 class Cust_Win:
     def __init__(self,root):
         self.root=root
