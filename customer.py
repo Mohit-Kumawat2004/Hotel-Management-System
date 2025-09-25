@@ -6,7 +6,7 @@ import random
 from tkinter import messagebox
    
 class Cust_Win:
-    def __init__(self,root):
+    def __init__(self,root): 
         self.root=root
         self.root.title("Hotel Management System")
         self.root.geometry("1295x550+230+220")
