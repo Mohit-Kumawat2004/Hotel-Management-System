@@ -421,7 +421,7 @@ class HotelManagementSystem:
 
         self.update_time()
         self.update_date()
-
+ 
 
         #=======================MENU=====================#
         lbl_menu=Label(main_frame,text="MENU", font=("times new roman",20,"bold"),bg="black",fg="gold",bd=4,relief=RIDGE)
