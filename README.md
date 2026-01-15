@@ -7,7 +7,7 @@ Welcome to the **Hotel Management System** built using **Python** 🐍 and **Tki
 - **User Authentication** with forgot password functionality and security questions 🔐.
 - **Customer Management**: View, add, update, and delete customer records 🧳.
 - **Room Management**: Check room availability, add new rooms, and assign bookings 🏠.
-- **Booking & Reports**: Generate and view reports on customer bookings 📊.
+- **Booking & Reports**: Generate and view reports on customer bookings 📊. 
 
 ## 🛠️ Technologies Used:
 - **Frontend**: Python with **Tkinter** (Graphical User Interface) 🖥️.
