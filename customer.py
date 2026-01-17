@@ -28,7 +28,6 @@ class Cust_Win:
         self.var_id_number=StringVar()
 
         
-
         #=====================================================TITLE==============================================#
         lbl_title=Label(self.root,text="ADD CUSTOMER DETAILS", font=("times new roman",18,"bold"),bg="black",fg="gold",bd=4,relief=RIDGE)
         lbl_title.place(x=0,y=0,width=1295,height=50)
