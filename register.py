@@ -11,7 +11,7 @@ class Register:
         self.root.title("Register")
         self.root.geometry("1600x900+0+0")
 
-        #===================Variables============================#
+        #===================Variables======================--======#
         self.var_fname=StringVar()
         self.var_lname=StringVar()
         self.var_contact=StringVar()
