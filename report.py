@@ -53,7 +53,7 @@ class ReportRoom:
 
         self.frame6 = Frame(self.main_frame)
         self.frame6.grid(row=1, column=2, sticky="nsew")
-
+ 
         # Ensure your image paths are correct and accessible
         image_path1 = r"C:\Users\harsh\OneDrive\Pictures\ImagesHotel\imaaage1.jpeg"  # Replace with your actual image path
         image_path2 = r"C:\Users\harsh\OneDrive\Pictures\ImagesHotel\imaaage2.jpeg"  # Replace with your actual image path
